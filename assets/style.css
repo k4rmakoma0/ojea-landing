@@ -175,6 +175,8 @@ h3 { margin: 0 0 6px; font-size: 1.2rem; }
 .prose { width: min(720px, 100% - 32px); margin: 40px auto 0; }
 .prose h1 { font-size: clamp(2.2rem, 6vw, 3.2rem); }
 .prose h2 { margin: 40px 0 8px; font-size: 1.5rem; }
+.prose h3 { margin: 26px 0 6px; font-size: 1.15rem; }
+.prose h3 + p { margin-top: 0; }
 .prose .updated { color: var(--ink-soft); }
 .prose .summary { padding: 18px 22px; border-left: 4px solid var(--accent); border-radius: 4px 12px 12px 4px; background: var(--paper-raised); }
 .prose li { margin-bottom: 6px; }

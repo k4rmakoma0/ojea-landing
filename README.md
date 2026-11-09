@@ -7,9 +7,12 @@ HTML y CSS estáticos, sin paso de compilación, dependencias, scripts ni analí
 | Página | Ruta |
 |---|---|
 | Inicio | `/` |
+| Soporte | `/soporte/` |
 | Aviso de privacidad | `/privacidad/` |
 
-La dirección del aviso de privacidad es la que va en App Store Connect: `https://ojea.alananaya.dev/privacidad/`. La de soporte, `https://github.com/k4rmakoma0/ojea-landing/issues`.
+La dirección del aviso de privacidad es la que va en App Store Connect: `https://ojea.alananaya.dev/privacidad/`. La de soporte, `https://ojea.alananaya.dev/soporte/`.
+
+Correos de contacto: `support@alananaya.dev` para soporte y `privacy@alananaya.dev` para privacidad.
 
 Los colores salen del icono y de `Shared/Assets.xcassets` de la app. El icono está en `assets/img/icon.svg`; los PNG se generan a partir de él.
 
